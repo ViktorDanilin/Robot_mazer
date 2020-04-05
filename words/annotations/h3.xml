@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>h3.jpg</filename>
+	<path>C:\Users\1\Desktop\project_cv\images\h3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>541</ymin>
+			<xmax>604</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+</annotation>

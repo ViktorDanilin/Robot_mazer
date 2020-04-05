@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s2.jpg</filename>
+	<path>C:\Users\1\Desktop\project_cv\images\s2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>s</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>566</ymin>
+			<xmax>696</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+</annotation>
